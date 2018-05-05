@@ -1,7 +1,7 @@
-# What is a bad USB?
+What is a bad USB?
 	BadUSB is a dangerous USB security flaw that allows attackers to turn a simple USB device into a keyboard, which can then be used to type malicious commands into the victim's compute. 
 
-# Purpose:
+Purpose:
 	The purpose of this project is to show that different kind of malicious activity can be done with  micro controller. Another motivation for this project is to show that how easily general people can loose important data without noticing simple things. 
   
   
